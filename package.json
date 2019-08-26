@@ -1,0 +1,23 @@
+{
+  "name": "notifications",
+  "version": "1.0.0",
+  "description": "Sending notifications with node.js via various media",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDrizzyWay/node-notifications.git"
+  },
+  "author": "Christopher Iliyas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheDrizzyWay/node-notifications/issues"
+  },
+  "homepage": "https://github.com/TheDrizzyWay/node-notifications#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "web-push": "^3.3.5"
+  }
+}
