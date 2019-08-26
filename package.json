@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TheDrizzyWay/node-notifications#readme",
   "dependencies": {
+    "dotenv": "^8.1.0",
     "express": "^4.17.1",
     "web-push": "^3.3.5"
   }
